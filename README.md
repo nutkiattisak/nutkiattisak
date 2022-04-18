@@ -7,6 +7,8 @@
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nutkiattisak&theme=onedark)]
+
 <details>
   <summary>Github Stats ⚡</summary>
   
