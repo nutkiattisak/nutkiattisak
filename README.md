@@ -34,21 +34,16 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nutkiattisak&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=nutkiattisak&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutkiattisak&theme=tokyonight&show_icons=true)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=nutkiattisak&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutkiattisak&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutkiattisak&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 <!---
 nutkiattisak/nutkiattisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutkiattisak)](https://github.com/anuraghazra/github-readme-stats)
+
 
