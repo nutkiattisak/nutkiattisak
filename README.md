@@ -40,6 +40,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutkiattisak&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
+### Find me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutkiattisak)
 <!---
 nutkiattisak/nutkiattisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
