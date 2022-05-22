@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=30B2FF&background=30B2FF00&lines=I'm+Kiattisak;I'm+a+web+developer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/nutkiattisak"><img src="https://api.daily.dev/devcards/5e4486f589194162a626e2d8e2b42941.png?r=ysi" width="400" alt="Kiattisak Chantharamaneechote's Dev Card"/></a>
+<a href="https://app.daily.dev/nutkiattisak"><img src="https://api.daily.dev/devcards/5e4486f589194162a626e2d8e2b42941.png?r=wp2" width="400" alt="Kiattisak Chantharamaneechote's Dev Card"/></a>
 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
