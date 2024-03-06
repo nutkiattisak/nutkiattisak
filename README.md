@@ -9,8 +9,6 @@
 <img src="https://api.daily.dev/devcards/5e4486f589194162a626e2d8e2b42941.png?r=wp2" width="400" alt="Kiattisak Chantharamaneechote's Dev Card"/>
 </a> -->
 
-[//]: <img src="https://i.imgur.com/wb2cbWE.png" alt="เขียนโค้ด">
-
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
