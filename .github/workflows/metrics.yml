@@ -25,7 +25,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: nutkiattisak/metrics@latest
+          user: nutkiattisak
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
