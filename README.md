@@ -12,7 +12,7 @@ I'm a passionate web developer specializing in full-stack development. I love bu
 
 <div align="center">
 
-[![TryHackMe](https://raw.githubusercontent.com/nutkiattisak/nutkiattisak/master/assets/thm_propic.png)][tryhackme]
+![TryHackMe](https://raw.githubusercontent.com/nutkiattisak/nutkiattisak/master/assets/thm_propic.png)
 
 <a href="https://app.daily.dev/nutkiattisak" target="_blank">
   <img src="https://api.daily.dev/devcards/v2/kI8jLoeWrHB0DGpq7mZHh.png?r=dzd&type=default" width="356" alt="Kiattisak Chantharamaneechote's Dev Card"/>
